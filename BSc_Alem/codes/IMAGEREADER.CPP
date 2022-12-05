@@ -1,3 +1,4 @@
+/*Alem/Betty/Mehari 2006*/
 /************Reading an image saved in local disk c as"c:\\cic.png"************/
 #include<fstream.h>
 #include<math.h>
