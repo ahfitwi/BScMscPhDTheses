@@ -1,3 +1,4 @@
+/*Alem/Betty/Mehari 2006*/
 /*prime number generastion*/
 #include<iostream.h>
 #include<math.h>
