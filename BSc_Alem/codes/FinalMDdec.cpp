@@ -1,3 +1,4 @@
+/*Alem/Betty/Mehari 2006*/
 /**********************ABMCIC**************************************************/
 #include<fstream.h>
 #include<iostream.h>
