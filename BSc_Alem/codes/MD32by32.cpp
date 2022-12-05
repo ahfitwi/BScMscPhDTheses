@@ -1,3 +1,4 @@
+/*Alem/Betty/Mehari 2006*/
 #include<iostream.h>
 #include<stdlib.h>
 #include<fstream.h>
